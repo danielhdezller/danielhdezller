@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="drawing" width="10"/>
+  <img src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="drawing" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
