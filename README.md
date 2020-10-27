@@ -11,4 +11,4 @@ a passionate Full Stack Developer with a biotechnology and pharmaceutical indust
 
 [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-ller/)
 
-> see some of my projects pinned down 👇
+### If you are curious, checkout some of the project I was involved in **👇**
