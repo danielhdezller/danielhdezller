@@ -1,6 +1,7 @@
 
-<div align="center" >
-  <img src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="drawing" height: "375px" overflow: "hidden" />
+<div align="center" background-image: url('https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80') >
+  
+  <img src="" alt="drawing" height: "375px" overflow: "hidden" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
