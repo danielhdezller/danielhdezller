@@ -3,4 +3,4 @@
 
 ## Connect
 
-[LinkId](https://www.linkedin.com/in/daniel-hernandez-ller/)
+[LinkedIn](https://www.linkedin.com/in/daniel-hernandez-ller/)
