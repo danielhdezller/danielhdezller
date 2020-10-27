@@ -1,6 +1,6 @@
-<link href="style.css" rel="stylesheet">
-<style>
-  .square {
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+ .square {
      position: relative;
      width: 300px;     
      height: 300px;
@@ -19,8 +19,9 @@
     height: 100%;
     width: auto;
 }
-</style>
-</link>
+</style>")
+
+<style>
 
 
 <div class="square" align="center">
