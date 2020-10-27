@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet">
 <style>
   .square {
      position: relative;
@@ -20,6 +20,8 @@
     width: auto;
 }
 </style>
+</link>
+
 
 <div class="square" align="center">
   <img class="landscape" src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" />
