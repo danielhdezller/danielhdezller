@@ -12,6 +12,8 @@ a passionate Full Stack Developer with a biotechnology and pharmaceutical indust
   > GraphQL
   > Apollo
   > React
+  > Koa
+  > Express
    ```
 
 
@@ -19,4 +21,4 @@ a passionate Full Stack Developer with a biotechnology and pharmaceutical indust
 
 > [LinkedIn](https://www.linkedin.com/in/daniel-hernandez-ller/)
 
-### If you are curious, checkout some of the project I was involved in **👇**
+### If you are curious, checkout some of the project I was involved in #👇
