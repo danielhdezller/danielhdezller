@@ -1,12 +1,6 @@
-<style>
-.resize {
-    width: 400px;
-    height: auto;
-}
-</style>
 
 <p align="center">
-  <img class="resize" src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" />
+  <img style="width: 400px" src="https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
