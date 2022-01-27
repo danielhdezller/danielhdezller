@@ -5,15 +5,18 @@
 
 # Hi 👋, I'm Daniel
 
-a passionate Full Stack Developer with a biotechnology and pharmaceutical industry background. Driven by the thought of building software that I can be proud of.  In the same way I characterize myself for being creative and having an entrepreneurial spirit.
+I am a passionate Backend JavaScript | TypeScript developer with a strong entrepreneurial spirit. Driven by the idea of building value adding software to be proud of, I am eager to learn and take on complex projects. I strive in a collaborative environment where I can share my enthusiasm for coding and problem solving. To combine my passion for coding and entrepreneurship I co-founded Apptece on which I work in my free time as both, back-end engineer and business developer.
 
 ## Love to work with:
    ```bash
-  > GraphQL
-  > Apollo
-  > React
-  > Koa
+  > Nestjs
   > Express
+   ```
+
+## Curious to keep learning:
+   ```bash
+  > Vue
+  > GraphQL
    ```
 
 
