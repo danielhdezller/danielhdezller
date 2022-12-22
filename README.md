@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://images.unsplash.com/photo-1536890274788-51861e124205?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80](https://cdn.pixabay.com/photo/2016/08/03/09/03/universe-1566159__340.jpg)" height="300" width="800px">
+  <img src="https://cdn.pixabay.com/photo/2016/08/03/09/03/universe-1566159__340.jpg" height="300" width="800px">
 </div>
 
 # Hi 👋, I'm Daniel
